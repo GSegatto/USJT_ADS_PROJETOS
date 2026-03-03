@@ -7,10 +7,10 @@ Centralizar e compartilhar tarefas e projetos acadêmicos com professores e cole
 
 ## Estrutura
 - Documentos (.docs, .pdf, etc.)
-- PLanilhas (.xlsx, .xlsm)
+- Planilhas (.xlsx, .xlsm)
 - Outros materiais de apoio
 
 ## Observações
 - Este repositorio é de uso acadêmico
 - Os arquivos podem ser atualizados conforme novos projetos forem concluídos.
-- 
+  
