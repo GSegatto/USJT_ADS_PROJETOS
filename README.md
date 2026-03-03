@@ -1,5 +1,5 @@
 # USJT_ADS_PROJETOS
-Projetos Diversos relacionados a USJT
+Projetos Diversos relacionados a USJT.
 Este repositório reune arquivos e documentos relacionados a projetos desenvolvidos na faculdade.
 
 ## Objetivo
